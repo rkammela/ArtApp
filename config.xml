@@ -3,10 +3,10 @@
 <widget xmlns = "http://www.w3.org/ns/widgets" 
    xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.tutorialspoint.onlineviewer" version = "1.0">
    
-   <name>SmartYo</name>
+   <name>Artesyn</name>
    
    <description>
-      SmartYo Description
+      Artesyn
    </description>
    
    <author href = "http://www.Artesyn.com" email = "raj.kammela@artesyn.com">
