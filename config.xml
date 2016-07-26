@@ -1,0 +1,42 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<widget xmlns = "http://www.w3.org/ns/widgets" 
+   xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.tutorialspoint.onlineviewer" version = "1.0">
+   
+   <name>SmartYo</name>
+   
+   <description>
+      SmartYo Description
+   </description>
+   
+   <author href = "http://www.Artesyn.com" email = "raj.kammela@artesyn.com">
+      Raj Kammela
+   </author>
+   
+   <preference name = "permissions" value = "none"/>
+   
+   <icon src = "img/logoB.png" 
+      gap:platform = "android" gap:qualifier = "ldpi" />
+		
+    <icon src = "img/logoB.png" 
+      gap:platform = "android" gap:qualifier = "mdpi" />
+		
+    <icon src = "img/logoB.png" 
+      gap:platform = "android" gap:qualifier = "hdpi" />
+		
+    <icon src = "img/logoB.png"  
+      gap:platform = "android" gap:qualifier = "xhdpi" />
+		
+    <icon src = "img/logoB.png"  
+      gap:platform = "android" gap:qualifier = "xxhdpi" />
+   
+    <icon src = "img/logoB.png"  gap:platform = "ios" gap:qualifier = ""/>
+    <icon src = "img/logoB.png"  gap:platform = "ios" width = "57" height = "57" />
+    <icon src = "img/logoB.png"  gap:platform = "ios" width = "72" height = "72" />
+    <icon src = "img/logoB.png"  gap:platform = "ios" width = "114" height = "114" />
+    <icon src = "img/logoB.png"  gap:platform = "ios" width = "144" height = "144" />
+
+
+   <gap:plugin name="com.adobe.plugins.pushplugin" />
+   
+</widget>
