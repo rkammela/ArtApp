@@ -37,6 +37,5 @@
     <icon src = "img/logoB.png"  gap:platform = "ios" width = "144" height = "144" />
 
 
-   <gap:plugin name="com.adobe.plugins.pushplugin" />
    
 </widget>
